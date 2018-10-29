@@ -1,0 +1,17 @@
+Estimado/a %%NAME%%,
+
+nuestro personal ha respondido a su ticket con asunto:
+"%%SUBJECT%%".
+
+MENSAJE: 
+%%MESSAGE%%
+
+
+Usted puede ver, responder o añadir mas información en el siguiente enlace:
+%%TRACK_URL%%
+
+
+Cordialmente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

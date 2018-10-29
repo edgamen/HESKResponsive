@@ -1,0 +1,20 @@
+Hola,
+ticket de soporte se ha movido a otra categoría.
+
+NOMBRE: %%NAME%% 
+EMAIL: %%EMAIL%%
+PRIORIDAD: %%PRIORITY%% 
+
+Detalles de tickets:
+Asunto del Ticket: %%SUBJECT%%
+ID de Rastreo: %%TRACK_ID%%
+MENSAJE: %%MESSAGE%%
+
+Puedes administrar este ticket desde:
+%%TRACK_URL%%
+
+
+Un cordial saludo,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

@@ -1,0 +1,25 @@
+Hola,
+
+un nuevo ticket de soporte le ha sido asignado:
+
+NOMBRE: %%NAME%% 
+
+EMAIL:%%EMAIL%%
+
+PRIORIDAD: %%PRIORITY%% 
+
+ASUNTO: %%SUBJECT%%
+
+MENSAJE: 
+%%MESSAGE%%
+
+ID Ticket: %%TRACK_ID%%
+
+Puede administrarlo desde:
+%%TRACK_URL%%
+
+
+Cordialmente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

@@ -1,0 +1,12 @@
+Estimado/a %%NAME%%,
+
+Este e-mail contiene una lista de los tickets de soporte enviados a nuestro sistema con tu dirección de correo electrónico. 
+Nímero de tickets de soporte encontrados: %%NUM%%
+
+%%LIST_TICKETS%%
+
+
+Cordialmente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

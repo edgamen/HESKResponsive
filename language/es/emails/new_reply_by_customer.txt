@@ -1,0 +1,19 @@
+Hola, un cliente acaba de responder al ticket:
+
+ASUNTO: "%%SUBJECT%%".
+
+NOMBRE: %%NAME%% EMAIL: %%EMAIL%%
+PRIORIDAD: %%PRIORITY%% 
+
+MENSAJE: 
+%%MESSAGE%%
+
+
+Puede administrar este ticket desde:
+%%TRACK_URL%%
+
+
+Saludos,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

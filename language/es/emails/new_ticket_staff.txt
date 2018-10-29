@@ -1,0 +1,24 @@
+Hola, un nuevo ticket de soporte ha sido creado:
+
+NOMBRE: %%NAME%% 
+
+EMAIL: %%EMAIL%%
+
+PRIORIDAD: %%PRIORITY%% 
+
+ASUNTO: %%SUBJECT%%
+
+MENSAJE: 
+%%MESSAGE%%
+
+ID Ticket para Rastreo: 
+%%TRACK_ID%%
+
+Enlace para administrar ticket:
+%%TRACK_URL%%
+
+
+Cordialmente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

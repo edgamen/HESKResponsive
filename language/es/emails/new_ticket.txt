@@ -1,0 +1,24 @@
+Estimado %%NAME%%,
+
+Su ticket de soporte "%%SUBJECT%%" ha sido recibido.
+
+MENSAJE: 
+%%MESSAGE%%
+
+
+Respondemos a todos los tickets lo más pronto posible.
+Si su petición nos llevara algun tiempo adicional, le informaremos por medio de un correo electrónico.
+Gracias por su paciencia.
+
+ID de seguimiento: %%TRACK_ID%%
+
+Usted puede ver el estado de su ticket desde el siguiente enlace:
+%%TRACK_URL%%
+
+Usted recibirá un e-mail de notificación cuando nuestro personal responda a su consulta de soporte.
+
+
+Cordialmente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%

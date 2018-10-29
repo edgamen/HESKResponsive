@@ -1,0 +1,19 @@
+Estimada/o %%NAME%%,
+
+Su solicitud de soporte "%%SUBJECT%%" ha sido actualizada como RESUELTA o CERRADA.
+Si no está conforme con la solución proporcionada puede proceder a reabrirla en cualquier momento.
+
+ID de Rastreo: %%TRACK_ID%%
+
+MENSAJE: 
+%%MESSAGE%%
+
+
+Puede ver el estado e información de su solicitud en el siguiente enlace:
+%%TRACK_URL%%
+
+
+Atentamente,
+
+%%SITE_TITLE%%
+%%SITE_URL%%
